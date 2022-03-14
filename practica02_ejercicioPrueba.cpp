@@ -3,7 +3,7 @@
 using namespace std;
 
 void main() {
-	cout << "Hola Mundo!. Practica 02. Prueba version 1.0" << endl;
+	cout << "Hola Mundo!. Practica 02. Prueba version 2.0" << endl;
 
 	system("pause");
 }
